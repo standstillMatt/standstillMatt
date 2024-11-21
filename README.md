@@ -17,4 +17,5 @@ Hello! My name is Matt. I'm a Whitman College student majoring in Economics.
 9. Tornadoes in the U.S. Data  
   * [Data Set](https://www.ncei.noaa.gov/access/monitoring/tornadoes/1/10?fatalities=false) from ncei.noaa.gov  
   * Could explore the effects of climate change and increase in dangerous tornadoes. Were there outlier years? What were the circumstances? Could pair with geographic data or population density data.  
-## Where's Schueller?  
+## First-Year Courses  
+{% include_relative Bar_Chart.html %}
